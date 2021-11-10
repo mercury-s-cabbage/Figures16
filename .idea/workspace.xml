@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b9a6b32c-5578-4410-bafa-6b56507d845c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Circle.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Figure.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Figure.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Movable.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Movable.kt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rect.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Rect.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Transforming.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/Transforming.kt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,6 +18,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="Kotlin Interface" />
+        <option value="Kotlin Class" />
       </list>
     </option>
   </component>
